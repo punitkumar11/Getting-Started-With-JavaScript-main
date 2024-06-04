@@ -6,7 +6,7 @@
    Tutorial Case
 
    Countdown Clock
-   Author: Navpreet Singh
+   Author: Punit kumar
    Date: 2024-06-03
 
 */
